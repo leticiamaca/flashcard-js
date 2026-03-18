@@ -2,6 +2,9 @@
 
 📘 Projeto desenvolvido como parte de uma iniciativa da **Alura em parceria com escolas públicas**, com foco em tecnologia na educação.  
 Criamos um sistema de flashcards interativos utilizando HTML, CSS e JavaScript puro.
+<div><img src="./Flash-card-1.jpeg"></div>
+<br>
+
 
 ## 📌 Sobre o Projeto | About the Project
 
@@ -12,6 +15,8 @@ Foi uma ótima oportunidade para aplicar conhecimentos em JavaScript e praticar 
 
 This project was part of an initiative by **Alura in collaboration with public schools**, focused on bringing technology into education.  
 We developed an interactive flashcard tool using plain HTML, CSS, and JavaScript.
+
+<div><img src="./Flash-card-2.jpeg"></div> <br>
 
 ## 🛠️ Tecnologias | Technologies
 
